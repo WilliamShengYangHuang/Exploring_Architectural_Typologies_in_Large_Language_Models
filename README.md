@@ -42,7 +42,7 @@ This work was developed within the the Architectural Association School of Archi
 
 ## 📬 Contact
 For research enquiries, please contact:  
-**Eduardo Rico Carranza**  
+**Dr Eduardo Rico Carranza**  
 Email: *eduardorico@aaschool.ac.uk*  
 **Dr Sheng-Yang Huang (William Huang)**  
 Email: *huang.sheng-yang@aaschool.ac.uk; william.huang@ucl.ac.uk*    
